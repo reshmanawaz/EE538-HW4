@@ -1,0 +1,10 @@
+Q 1 :  18 / 18 passed | score: 20
+Q 2 :  22 / 30 passed | score: 22
+Q 3 :  1 / 5 passed | score: 2
+Q 4 :  4 / 5 passed | score: 24
+Q 5 :  8 / 8 passed | score: 20
+Q 6 :  9 / 9 passed | score: 20
+-----------------------------------------
+Your total score of coding section: 108.0
+-----------------------------------------
+Sun Jul 30 22:27:06 PDT 2023
